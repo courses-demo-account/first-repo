@@ -1,7 +1,8 @@
 
     h1 {
-        color: red;
-        background: yellow;
+        color: white;
+        background: green;
+        text-shadow: 3px 3px 10px white;
     }
 
     h2 {
